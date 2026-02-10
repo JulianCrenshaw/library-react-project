@@ -2,9 +2,13 @@ import React from 'react'
 
 const Nav = () => {
   return (
-    <div>
-      
+   <nav>
+    <div className="nav__container">
+        <a href="/">
+        <img src="" alt="" />
+        </a>
     </div>
+   </nav>
   )
 }
 
