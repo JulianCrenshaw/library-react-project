@@ -18,7 +18,9 @@ const Nav = () => {
               Books
             </a>
           </li>
-          <button className="btn__menu"></button>
+          <button className="btn__menu">
+            <FontAwesome icon="bars" />
+          </button>
         </ul>
       </div>
     </nav>
